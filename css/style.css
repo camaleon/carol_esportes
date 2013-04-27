@@ -1,0 +1,827 @@
+/* Resetando tudo-------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn,
+em, font, img, ins, kbd, q, s, samp, small, strike,
+strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol,  fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead,  th,  hr{
+ margin: 0;
+ padding: 0;
+ border: 0;
+ outline: 0;
+ vertical-align: baseline;
+ background: transparent;
+ list-style: none;
+ border-collapse: collapse;
+ border-spacing: 0;
+ text-decoration: none;
+}
+ 
+img a, a img{border: none;}
+blockquote, q {quotes: none;}
+ 
+blockquote:before, blockquote:after, q:before, q:after {
+content: ""; content: none;
+}
+
+a {color: #fff;}
+a:hover {color: #fff;
+			text-decoration: underline;
+}
+a:visited {color: #fff;}
+
+.descricao_titulo{
+	color: #184979;
+}
+
+#loading{
+	width: 100%;
+	height: 2800px;
+	background-color: #fff;
+	position: absolute;
+	top:0px;
+	left: 0px;
+	z-index: 10;
+
+}
+#loading_image{
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	margin-top:-16px;
+	top: 50%;
+	left:50%;
+	margin-left:-16px;
+		z-index: 11;
+		
+
+}
+
+body{
+	background-color: #fff;
+	overflow-x: hidden;
+	font-family: verdana, arial, verdana;
+	font-size: 12px;
+
+
+}
+#faixa_superior_menu{
+
+	width: 100%;
+	height: 30px;
+	position: absolute;;
+	top: 150px;
+	left: 0px;
+	background-color: #285688;
+
+
+}
+#faixa_inferior_menu{
+
+	width: 100%;
+	height: 30px;
+	position: absolute;;
+	top: 180px;
+	left: 0px;
+	background-color: #51a8b1;
+	opacity:0.80;
+	-moz-opacity: 0.80;
+	filter: alpha(opacity=80);
+
+
+}
+#next{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 400px;
+	left: 0px;
+	
+	z-index: 5;
+	cursor: pointer;
+
+	opacity:0.30;
+	-moz-opacity: 0.30;
+	filter: alpha(opacity=30);
+}
+#prev{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 400px;
+	left: 984px;
+	
+	z-index: 5;
+	cursor: pointer;
+	opacity:0.30;
+	-moz-opacity: 0.30;
+	filter: alpha(opacity=30);
+}
+#cartoes{
+	width: 220px;
+	height: 21px;
+	position: absolute;
+	top: -30px;
+	
+
+	left:50%;
+	margin-left:-110px;
+
+}
+#funcionamento{
+	width: 230px;
+height: 14px;
+position: absolute;
+top: 121px;
+left: 132px;
+font-family: verdana, arial, verdana;
+/*border-bottom: 1px solid #74b8be;*/
+font-size: 10px;
+padding: 3px;
+color: #949494;
+
+}
+#os{
+	width: 200px;
+	height: 50px;
+	position: absolute;
+	top: 50px;
+	left: 750px;
+	font-family: verdana, arial, verdana;
+	border-radius: 5px;
+	
+	font-size: 10px;
+	padding: 10px;
+	color: #949494;
+	/*border: 1px solid #949494;*/
+	background-color: #F2F3F3;
+
+}
+
+#marca{
+	width: 230px;
+	height: 57px;
+	position: absolute;
+	top: 40px;
+	left: 131px;
+}
+#pagina{
+	width: 1012px;
+	
+	position: absolute;
+	left:50%;
+	margin-left:-506px;
+	
+
+}
+.color{
+	color: #fff;
+}
+/*botao superior-------------------------------------*/
+.b_home {
+	position: absolute;
+	left: 141px;
+	top:154px;
+	font-size: 11px;
+	width: 60px;
+	height: 16px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	border-right: 1px solid #fff;
+	text-align: center;
+	padding: 2px;
+}
+.b_redes {
+	position: absolute;
+	left: 198px;
+	top:154px;
+	font-size: 11px;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_materialEsportivo {
+	position: absolute;
+	left: 310px;
+	top:154px;
+	font-size: 11px;
+	width: 150px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_premiacao {
+	position: absolute;
+	left: 473px;
+	top:154px;
+	font-size: 11px;
+	width: 90px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_grafica {
+	position: absolute;
+	left: 571px;
+	top:154px;
+	font-size: 11px;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_acrilico {
+	position: absolute;
+	left: 664px;
+	top:154px;
+	font-size: 11px;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_treinador {
+	position: absolute;
+	left: 760px;
+	top:154px;
+	font-size: 11px;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	
+}
+/*botao inferior-------------------------------------*/
+.b_brindes {
+	position: absolute;
+	left: 191px;
+	top:184px;
+	font-size: 11px;
+	width: 80px;
+	height: 16px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	border-right: 1px solid #fff;
+	text-align: center;
+	padding: 2px;
+}
+.b_bordados {
+	position: absolute;
+	left: 275px;
+	top:184px;
+	font-size: 11px;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_presentes {
+	position: absolute;
+	left: 384px;
+	top:184px;
+	font-size: 11px;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_fitnes {
+	position: absolute;
+	left: 488px;
+	top:184px;
+	font-size: 11px;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_nauticos {
+	position: absolute;
+	left: 575px;
+	top: 184px;
+	font-size: 11px;
+	width: 130px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	border-right: 1px solid #fff;
+}
+.b_contatos {
+	position: absolute;
+	left: 705px;
+	top: 184px;
+	font-size: 11px;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: verdana, arial, verdana;
+	text-align: center;
+	padding: 2px;
+	height: 16px;
+	
+}
+/*cycle---------------------------------------------*/
+#cycle{
+
+	width: 2000px;
+	height: 700px;
+	position: absolute;
+	top: 172px;
+	left: -494px;
+	z-index: -1;
+	
+}
+.icon_pagina{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	top: 627px;
+	left: 0px;
+	
+}
+.txt_icon_pagina{
+	position: absolute;
+	width: 200px;
+	height: 30px;
+	top: 635px;
+	left: 60px;
+	font-family: verdana, arial, verdana;
+	color: #fff;
+	font-size: 18px;
+}
+#faixa_inferior_cycle{
+
+	width: 100%;
+	height: 50px;
+	position: absolute;;
+	top: 622px;
+	left: 0px;
+	background-color: #285688;
+	opacity:0.90;
+	-moz-opacity: 0.90;
+	filter: alpha(opacity=90);
+
+
+}
+#descer{
+	width: 17px;
+	height: 16px;
+	position: absolute;
+	top: 640px;
+	left: 991px;
+	cursor: pointer;
+	
+	}
+	#produtos{
+	width: 45px;
+	height: 16px;
+	position: absolute;
+	top: 645px;
+	left: 941px;
+	color: #fff;
+	font-size: 10px;
+	
+	}
+#subir{
+	width: 17px;
+	height: 16px;
+	position: absolute;
+	top: 2120px;
+	left: 991px;
+	cursor: pointer;
+	z-index: 3;
+	
+	
+
+
+}
+
+/*introducao-------------------------------*/
+#txt_introducao{
+	position: relative;
+	line-height:170%;
+	width: 1012px;
+	top: 730px;
+	left: 0px;
+	font-family: verdana, arial, verdana;
+	text-align: justify;
+	font-size: 12px;
+}
+/*quadrados-------------------------*/
+#q1 {
+    height: 330px;
+    left: 0;
+    position: absolute;
+    top: 1000px;
+    width: 230px;
+}
+#q1_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 193px;
+    position: absolute;
+    top: 1182px;
+    width: 23px;
+    z-index: 10;
+}
+#q1_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 190px;
+    position: absolute;
+    top: 1204px;
+    width: 23px;
+    z-index: 10;
+}
+#q2 {
+    height: 330px;
+    left: 260px;
+    position: absolute;
+    top: 1000px;
+    width: 230px;
+}
+#q2_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 457px;
+    position: absolute;
+    top: 1180px;
+    width: 23px;
+    z-index: 10;
+}
+#q2_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 454px;
+    position: absolute;
+    top: 1202px;
+    width: 23px;
+    z-index: 10;
+}
+#q3 {
+	position: absolute;
+    height: 330px;
+    left: 520px;
+   top: 1000px;
+    width: 230px;
+}
+#q3_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 720px;
+    position: absolute;
+    top: 1180px;
+    width: 23px;
+    z-index: 10;
+}
+#q3_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 717px;
+    position: absolute;
+     top: 1202px;
+    width: 23px;
+    z-index: 10;
+}
+#q4 {
+    height: 330px;
+    left: 780px;
+    position: absolute;
+    top: 1000px;
+    width: 230px;
+}
+#q4_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 967px;
+    position: absolute;
+    top: 1179px;
+    width: 23px;
+    z-index: 10;
+}
+#q4_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 966px;
+    position: absolute;
+    top: 1203px;
+    width: 23px;
+    z-index: 10;
+}
+#q5 {
+    height: 330px;
+    left: 0;
+    position: absolute;
+    top: 1350px;
+    width: 230px;
+}
+#q5_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 194px;
+    position: absolute;
+    top: 1526px;
+    width: 23px;
+    z-index: 10;
+}
+#q5_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 192px;
+    position: absolute;
+    top: 1550;
+    width: 23px;
+    z-index: 10;
+}
+#q6 {
+    height: 330px;
+    left: 260px;
+    position: absolute;
+    top: 1350px;
+    width: 230px;
+}
+#q6_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 454px;
+    position: absolute;
+    top: 1526px;
+    width: 23px;
+    z-index: 10;
+}
+#q6_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 452px;
+    position: absolute;
+    top: 1550;
+    width: 23px;
+    z-index: 10;
+}
+#q7 {
+    height: 330px;
+    left: 519px;
+    position: absolute;
+    top: 1350px;
+    width: 230px;
+}
+#q7_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 715px;
+    position: absolute;
+    top: 1526px;
+    width: 23px;
+    z-index: 10;
+}
+#q7_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 713px;
+    position: absolute;
+    top: 1550;
+    width: 23px;
+    z-index: 10;
+}
+#q8 {
+    height: 330px;
+    left: 780px;
+    position: absolute;
+    top: 1350px;
+    width: 230px;
+
+}
+#q8_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 967px;
+    position: absolute;
+    top: 1526px;
+    width: 23px;
+    z-index: 10;
+}
+#q8_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 966px;
+    position: absolute;
+    top: 1550;
+    width: 23px;
+    z-index: 10;
+}
+
+#q9 {
+    height: 330px;
+    left: 0;
+    position: absolute;
+    top: 1700px;
+    width: 230px;
+}
+#q9_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 194px;
+    position: absolute;
+    top: 1876px;
+    width: 23px;
+    z-index: 10;
+}
+#q9_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 192px;
+    position: absolute;
+    top: 1900;
+    width: 23px;
+    z-index: 10;
+}
+#q10 {
+    height: 330px;
+    left: 260px;
+    position: absolute;
+    top: 1700px;
+    width: 230px;
+}
+#q10_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 454px;
+    position: absolute;
+    top: 1876px;
+    width: 23px;
+    z-index: 10;
+}
+#q10_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 452px;
+    position: absolute;
+    top: 1900;
+    width: 23px;
+    z-index: 10;
+}
+
+#q11 {
+    height: 330px;
+    left: 519px;
+    position: absolute;
+    top: 1700px;
+    width: 230px;
+}
+#q11_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 715px;
+    position: absolute;
+    top: 1876px;
+    width: 23px;
+    z-index: 10;
+}
+#q11_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 713px;
+    position: absolute;
+    top: 1900;
+    width: 23px;
+    z-index: 10;
+}
+
+
+#q12 {
+    height: 330px;
+    left: 780px;
+    position: absolute;
+    top: 1700px;
+    width: 230px;
+    
+}
+#q12_passar {
+    cursor: pointer;
+    height: 18px;
+    left: 967px;
+    position: absolute;
+    top: 1876px;
+    width: 23px;
+    z-index: 10;
+}
+#q12_voltar {
+    cursor: pointer;
+    height: 18px;
+    left: 966px;
+    position: absolute;
+    top: 1900;
+    width: 23px;
+    z-index: 10;
+}
+
+/* rodape ----------------------------*/
+#facebook{
+
+	width: 1024px;
+	height: 400px;
+	position: absolute;
+	top: 1790px;
+	left: 0px;
+
+}
+#footer{
+
+	width: 100%;
+	height: 400px;
+	background-color: #184979;
+	position: absolute;
+	top: 2090px;
+	left: 0px;
+
+}
+#footer2{
+
+	width: 100%;
+	height: 15px;
+	background-color: #02162a;
+	position: absolute;
+	top: 2490px;
+	left: 0px;
+	z-index: 2;
+	text-align: center;
+	color: #fff;
+	padding: 15px;
+
+}
+#links_rodape{
+	width: 400px;
+	height: 205px;
+	top: 2188px;
+	left: 0px;
+	border-left: solid 1px #fff;
+	padding: 5px;
+	color: #fff;
+	position: absolute;
+	z-index: 2;
+}
+#endereco_rodape{
+	width: 300px;
+	height: 170px;
+	top: 2200px;
+	left: 370px;
+	border-left: solid 1px #fff;
+	padding: 5px;
+	color: #fff;
+	position: absolute;
+	z-index: 2;
+}
+#contatos_rodape{
+	width: 300px;
+	height: 240px;
+	top: 2160px;
+	left: 850px;
+	border-left: solid 1px #fff;
+	padding: 5px;
+	color: #fff;
+	position: absolute;
+	z-index: 2;
+}
+/*parque de maquinas-------------*/
+.box_maquinas{
+	display: none;
+}

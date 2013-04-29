@@ -128,19 +128,19 @@ for($i=0;$i<20;$i++){
 		<div id="q1_descricao"><br/><div class="descricao_titulo">A6</div><br>Urna em acrílico</div>		
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><img src="images/produtos/acrilico/q1_1.jpg"></div>
+		<div id="q1_imagem"><a href="images/produtos/acrilico/q1_1_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q1_1.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">A12</div><br/>Caixa de sugestões em acrílico</div>		
 	</div>
 		<div id="q1_cycle">
-		<div id="q1_imagem"><img src="images/produtos/acrilico/q1_3.jpg"></div>
+		<div id="q1_imagem"><a href="images/produtos/acrilico/q1_3_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q1_3.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">A6</div><br/>Urna m acrílico</div>		
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><img src="images/produtos/acrilico/q1_4.jpg"></div>
+		<div id="q1_imagem"><a href="images/produtos/acrilico/q1_4_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q1_4.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">A6</div><br/>Urna m acrílico</div>		
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><img src="images/produtos/acrilico/q1_5.jpg"></div>
+		<div id="q1_imagem"><a href="images/produtos/acrilico/q1_5_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q1_5.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">A2</div><br/>Display em acrílico cristal.</div>		
 	</div>
 	
@@ -150,20 +150,20 @@ for($i=0;$i<20;$i++){
 <div id="q2_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q2">
 	<div id="q2_cycle">
-		<div id="q2_imagem"><img src="images/produtos/acrilico/q2_1.jpg"></div>
+		<div id="q2_imagem"><a href="images/produtos/acrilico/q2_1_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q2_1.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">A3</div> <br/>Quadro acrílico com adesivo. </div>		
 	</div>
 
 	<div id="q2_cycle">
-		<div id="q2_imagem"><img src="images/produtos/acrilico/q2_2.jpg"></div>
+		<div id="q2_imagem"><a href="images/produtos/acrilico/q2_2_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q2_2.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Placa em acrílico</div> <br/></div>		
 	</div>
 	<div id="q2_cycle">
-		<div id="q2_imagem"><img src="images/produtos/acrilico/q2_3.jpg"></div>
+		<div id="q2_imagem"><a href="images/produtos/acrilico/q2_3_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q2_3.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Placa em PVC</div> <br/></div>		
 	</div>
 	<div id="q2_cycle">
-		<div id="q2_imagem"><img src="images/produtos/acrilico/q2_4.jpg"></div>
+		<div id="q2_imagem"><a href="images/produtos/acrilico/q2_4_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q2_4.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Placa em PVC</div> <br/></div>		
 	</div>
 	
@@ -173,11 +173,11 @@ for($i=0;$i<20;$i++){
 <div id="q3_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q3">
 	<div id="q3_cycle">
-		<div id="q3_imagem"><img src="images/produtos/acrilico/q3_1.jpg"></div>
+		<div id="q3_imagem"><a href="images/produtos/acrilico/q3_1_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q3_1.jpg"></a></div>
 		<div id="q3_descricao"><br/><div class="descricao_titulo">A6</div> <br/>Quadro em acrílico. </div>				
 	</div>
 <div id="q3_cycle">
-		<div id="q3_imagem"><img src="images/produtos/acrilico/q3_2.jpg"></div>
+		<div id="q3_imagem"><a href="images/produtos/acrilico/q3_2_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q3_2.jpg"></a></div>
 		<div id="q3_descricao"><br/><div class="descricao_titulo">Placa em acrílico</div> <br/></div>				
 	</div>
 </div>
@@ -186,11 +186,11 @@ for($i=0;$i<20;$i++){
 <div id="q4_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q4">
 	<div id="q4_cycle">
-		<div id="q4_imagem"><img src="images/produtos/acrilico/q4_1.jpg"></div>
+		<div id="q4_imagem"><a href="images/produtos/acrilico/q4_1_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q4_1.jpg"></a></div>
 		<div id="q4_descricao"><br/><div class="descricao_titulo">A6</div> <br/> Púlpito em acrílico com led.</div>				
 	</div>
 <div id="q4_cycle">
-		<div id="q4_imagem"><img src="images/produtos/acrilico/q4_2.jpg"></div>
+		<div id="q4_imagem"><a href="images/produtos/acrilico/q4_2_g.jpg" title="Urna em acrílico"><img src="images/produtos/acrilico/q4_2.jpg"></a></div>
 		<div id="q4_descricao"><br/><div class="descricao_titulo">A6</div> <br/>Púlpito em acrílico com led.</div>				
 	</div>
 

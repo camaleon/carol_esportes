@@ -161,16 +161,16 @@ no metal e pintada</div>
 <div id="q2_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q2">
 	<div id="q2_cycle">
-		<div id="q2_imagem"><a href="images/produtos/brindes/q2_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q2_1.jpg"></a></div>
+		<div id="q2_imagem"><a href="images/produtos/brindes/q2_1_g.jpg" title="Chaveiro de Clubes"><img src="images/produtos/brindes/q2_1.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Chaveiro de Metal</div> <br/> Chaveiro de Clubes</div>		
 	</div>
 
 	<div id="q2_cycle">
-		<div id="q2_imagem"><a href="images/produtos/brindes/q2_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q2_2.jpg"></a></div>
+		<div id="q2_imagem"><a href="images/produtos/brindes/q2_2_g.jpg" title="Chaveiro de Clubes"><img src="images/produtos/brindes/q2_2.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Chaveiro de Metal</div> <br/> Chaveiro de Clubes</div>		
 	</div>
 	<div id="q2_cycle">
-		<div id="q2_imagem"><a href="images/produtos/brindes/q2_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q2_3.jpg"></a></div>
+		<div id="q2_imagem"><a href="images/produtos/brindes/q2_3_g.jpg" title="Chaveiro de Clubes"><img src="images/produtos/brindes/q2_3.jpg"></a></div>
 		<div id="q2_descricao"><br/><div class="descricao_titulo">Chaveiro de Metal</div> <br/> Chaveiro de Clubes</div>		
 	</div>
 </div>
@@ -179,15 +179,15 @@ no metal e pintada</div>
 <div id="q3_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q3">
 	<div id="q3_cycle">
-		<div id="q3_imagem"><a href="images/produtos/brindes/q3_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q3_1.jpg"></a></div>
+		<div id="q3_imagem"><a href="images/produtos/brindes/q3_1_g.jpg" title="Ímas de geladeira e Porta-chaves"><img src="images/produtos/brindes/q3_1.jpg"></a></div>
 		<div id="q3_descricao"><br/><div class="descricao_titulo">Íma</div> <br/> Ímas de geladeira e Porta-chaves</div>				
 	</div>
 	<div id="q3_cycle">
-		<div id="q3_imagem"><a href="images/produtos/brindes/q3_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q3_2.jpg"></a></div>
+		<div id="q3_imagem"><a href="images/produtos/brindes/q3_2_g.jpg" title="Marcador de página"><img src="images/produtos/brindes/q3_2.jpg"></a></div>
 		<div id="q3_descricao"><br/><div class="descricao_titulo">Marcador de página</div> <br/> </div>				
 	</div>
 	<div id="q3_cycle">
-		<div id="q3_imagem"><a href="images/produtos/brindes/q3_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q3_3.jpg"></a></div>
+		<div id="q3_imagem"><a href="images/produtos/brindes/q3_3_g.jpg" title="Marcador de página"><img src="images/produtos/brindes/q3_3.jpg"></a></div>
 		<div id="q3_descricao"><br/><div class="descricao_titulo">Marcador de página</div> <br/> </div>				
 	</div>
 
@@ -198,16 +198,16 @@ no metal e pintada</div>
 <div id="q4_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q4">
 	<div id="q1_cycle">
-		<div id="q1_imagem"><a href="images/produtos/brindes/q4_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q4_1.jpg"></a></div>
+		<div id="q1_imagem"><a href="images/produtos/brindes/q4_1_g.jpg" title="Caneca de Acrílico"><img src="images/produtos/brindes/q4_1.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">Caneca de Acrílico</div> <br/> Caneca de Acrílico personalizada</div>			
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><a href="images/produtos/brindes/q4_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q4_2.jpg"></a></div>
+		<div id="q1_imagem"><a href="images/produtos/brindes/q4_2_g.jpg" title="Caneca de Acrílico"><img src="images/produtos/brindes/q4_2.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">Caneca de Acrílico</div> <br/> Caneca de Acrílico personalizada
 </div>				
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><a href="images/produtos/brindes/q4_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q4_3.jpg"></a></div>
+		<div id="q1_imagem"><a href="images/produtos/brindes/q4_3_g.jpg" title="Caneca de porcelana"><img src="images/produtos/brindes/q4_3.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">Caneca de porcelana</div> <br/> Caneca de porcelana personalizada
 </div>				
 	</div>
@@ -219,11 +219,11 @@ no metal e pintada</div>
 <div id="q5_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q5">
 	<div id="q1_cycle">
-		<div id="q1_imagem"><a href="images/produtos/brindes/q5_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q5_1.jpg"></a></div>
+		<div id="q1_imagem"><a href="images/produtos/brindes/q5_1_g.jpg" title="Cubo de acrilico"><img src="images/produtos/brindes/q5_1.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">Cubo de acrilico</div> <br/> Cubo de acrílico personalizado </div>		
 	</div>
 	<div id="q1_cycle">
-		<div id="q1_imagem"><a href="images/produtos/brindes/q5_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q5_2.jpg"></a></div>
+		<div id="q1_imagem"><a href="images/produtos/brindes/q5_2_g.jpg" title="Cubo de acrilico"><img src="images/produtos/brindes/q5_2.jpg"></a></div>
 		<div id="q1_descricao"><br/><div class="descricao_titulo">Cubo de acrilico</div> <br/> Cubo de acrílico personalizado </div>	
 	</div>
 	
@@ -234,23 +234,23 @@ no metal e pintada</div>
 <div id="q6_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q6">
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_1.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_1_g.jpg" title="Relógio de parede com marca de sua empresa"><img src="images/produtos/brindes/q6_1.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de parede com marca de sua empresa</div>		
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_2.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_2_g.jpg" title="Relógio de Mesa"><img src="images/produtos/brindes/q6_2.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de Mesa</div>		
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_3.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_3_g.jpg" title="Relógio de parede personalizado"><img src="images/produtos/brindes/q6_3.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de parede personalizado</div>		
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_4_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_4.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_4_g.jpg" title="Relógio de parede personalizado"><img src="images/produtos/brindes/q6_4.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de parede personalizado</div>		
 	</div>
 		<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_5_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_5.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_5_g.jpg" title="Relógio de Mesa"><img src="images/produtos/brindes/q6_5.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de Mesa</div>		
 	</div>
 	<div id="q6_cycle">
@@ -258,11 +258,11 @@ no metal e pintada</div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relógio de Mesa</div>		
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_7_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_7.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_7_g.jpg" title="Relogio com Recorte personalizado"><img src="images/produtos/brindes/q6_7.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relogio com Recorte personalizado</div>		
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q6_8_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q6_8.jpg"></a></div>
+		<div id="q6_imagem"><a href="images/produtos/brindes/q6_8_g.jpg" title="Relogio de parede com Recorte personalizado"><img src="images/produtos/brindes/q6_8.jpg"></a></div>
 		<div id="q6_descricao"><br/><div class="descricao_titulo">Relógio</div> <br/> Relogio de parede com Recorte personalizado</div>		
 	</div>
 </div>
@@ -272,20 +272,20 @@ no metal e pintada</div>
 <div id="q7_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q7">
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q7_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q7_1.jpg"></a></div>
-		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizada</div>				
+		<div id="q6_imagem"><a href="images/produtos/brindes/q7_1_g.jpg" title="Squeeze Personalizado"><img src="images/produtos/brindes/q7_1.jpg"></a></div>
+		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizado</div>				
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q7_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q7_2.jpg"></a></div>
-		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizada</div>				
+		<div id="q6_imagem"><a href="images/produtos/brindes/q7_2_g.jpg" title="Squeeze Personalizado"><img src="images/produtos/brindes/q7_2.jpg"></a></div>
+		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizado</div>				
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q7_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q7_3.jpg"></a></div>
-		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizada</div>				
+		<div id="q6_imagem"><a href="images/produtos/brindes/q7_3_g.jpg" title="Squeeze Personalizado"><img src="images/produtos/brindes/q7_3.jpg"></a></div>
+		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizado</div>				
 	</div>
 	<div id="q6_cycle">
-		<div id="q6_imagem"><a href="images/produtos/brindes/q7_4_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/brindes/q7_4.jpg"></a></div>
-		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizada</div>				
+		<div id="q6_imagem"><a href="images/produtos/brindes/q7_4_g.jpg" title="Squeeze Personalizado"><img src="images/produtos/brindes/q7_4.jpg"></a></div>
+		<div id="q6_descricao"><br/><div class="descricao_titulo">Squeeze</div> <br/> Squeeze Personalizado</div>				
 	</div>
 	
 </div>
@@ -295,22 +295,29 @@ no metal e pintada</div>
 <div id="q8_voltar"><img src="images/produtos/voltar.png"></div>
 <div id="q8">
 	<div id="q8_cycle">
-		<div id="q8_imagem"><a href="images/produtos/brindes/q8_1_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/esportes/q1_1.jpg"></a></div>
-		<div id="q8_descricao"><br/><div class="descricao_titulo">Bolsa Koream</div> <br/> Small Items
-por: R$ 109,90
-2x de R$ 34,95 sem juros</div>				
+		<div id="q8_imagem"><a href="images/produtos/brindes/q8_1_g.jpg" title="Mouse Pad Personalizado"><img src="images/produtos/brindes/q8_1.jpg"></a></div>
+		<div id="q8_descricao"><br/><div class="descricao_titulo">Mouse Pad</div> <br/> Mouse Pad Personalizado
+</div>				
 	</div>
 	<div id="q8_cycle">
-		<div id="q8_imagem"><a href="images/produtos/brindes/q8_2_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/esportes/q1_2.jpg"></a></div>
-		<div id="q8_descricao"><br/><div class="descricao_titulo">Bolsa Koream</div> <br/> Small Items
-por: R$ 109,90
-2x de R$ 34,95 sem juros</div>				
+		<div id="q8_imagem"><a href="images/produtos/brindes/q8_4_g.jpg" title="Camisa em Sublimação"><img src="images/produtos/brindes/q8_4.jpg"></a></div>
+		<div id="q8_descricao"><br/><div class="descricao_titulo">Sublimação</div> <br/> Camisa em Sublimação
+</div>				
 	</div>
 	<div id="q8_cycle">
-		<div id="q8_imagem"><a href="images/produtos/brindes/q8_3_g.jpg" title="Chaveiro de Metal"><img src="images/produtos/esportes/q1_3.jpg"></a></div>
-		<div id="q8_descricao"><br/><div class="descricao_titulo">Bolsa Koream</div> <br/> Small Items
-por: R$ 109,90
-2x de R$ 34,95 sem juros</div>				
+		<div id="q8_imagem"><a href="images/produtos/brindes/q8_5_g.jpg" title="Mouse Pad Personalizado"><img src="images/produtos/brindes/q8_5.jpg"></a></div>
+		<div id="q8_descricao"><br/><div class="descricao_titulo">Mouse Pad</div> <br/> Mouse Pad Personalizado
+</div>				
+	</div>
+	<div id="q8_cycle">
+		<div id="q8_imagem"><a href="images/produtos/brindes/q8_2_g.jpg" title="Cubo de Fotos Personalizado"><img src="images/produtos/brindes/q8_2.jpg"></a></div>
+		<div id="q8_descricao"><br/><div class="descricao_titulo">Cubo </div> <br/> Cubo de Fotos Personalizado
+</div>				
+	</div>
+	<div id="q8_cycle">
+		<div id="q8_imagem"><a href="images/produtos/brindes/q8_3_g.jpg" title="Bótons de Metal Personalizado"><img src="images/produtos/brindes/q8_3.jpg"></a></div>
+		<div id="q8_descricao"><br/><div class="descricao_titulo">Bótons</div> <br/> Bótons de Metal Personalizado
+</div>				
 	</div>
 </div>
 <!--
